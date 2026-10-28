@@ -1,0 +1,4 @@
+interface:
+  display_name: "云阅卷平台阅卷"
+  short_description: "按评分标准安全批阅并进行OCR辅助复核"
+  default_prompt: "Use $swomr-grading to grade the current answer sheet on 云阅卷平台."
